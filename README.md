@@ -1,6 +1,12 @@
 ## Hi, I'm Marwan ✨
 
-🎓 Software Engineering student @ Carleton University
+🎓 Software Engineering student @ Carleton University <br>
+⚽ Soccer enthusiast(love playing and watching matches 🔴🔵) <br>
+📚 Always exploring new tech and diving into interesting projects <br>
+🎶 Always coding with a playlist in the background <br> <br>
+
+👨‍💻 Open to Winter 2026 Co-op opportunities, always happy to chat about tech & projects!
+
 
 
 # 💻 Tech Stack:
