@@ -5,7 +5,7 @@
 📚 Always exploring new tech and diving into interesting projects <br>
 🎶 Always coding with a playlist in the background <br> <br>
 
-👨‍💻 Open to Winter 2026 Co-op opportunities, always happy to chat about tech & projects!
+👨‍💻 Open to Summer 2026 Co-op opportunities, always happy to chat about tech & projects!
 
 
 
